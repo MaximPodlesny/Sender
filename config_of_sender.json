@@ -1,0 +1,14 @@
+{
+    "turne_tg": {
+        "user": "0",
+        "filename": null,
+        "flag": false,
+        "counter": 0
+    },
+    "turne_wa": {
+        "user": "0",
+        "filename": "None",
+        "flag": true,
+        "counter": 0
+    }
+}
